@@ -1,4 +1,4 @@
-laraplate
+## laraplate
 =========
 
-The boilerplate for a Laravel application with Gulp, Bower, Sass and more...
+The boilerplate for a Laravel application with Gulp, Jade, Bower, Sass and more...
